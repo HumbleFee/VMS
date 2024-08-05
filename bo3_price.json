@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Starter Package",
+    "price": "$5",
+    "features": ["Feature A", "Feature B"],
+    "buttonClass": "starter"
+  },
+  {
+    "title": "Advanced Package",
+    "price": "$15",
+    "features": ["Feature A", "Feature B", "Feature C"],
+    "buttonClass": "advanced"
+  }
+]
