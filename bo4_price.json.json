@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Basic Package",
+    "price": "$10",
+    "features": ["Feature 1", "Feature 2", "Feature 3"],
+    "buttonClass": "basic"
+  },
+  {
+    "title": "Premium Package",
+    "price": "$20",
+    "features": ["Feature 1", "Feature 2", "Feature 3", "Feature 4"],
+    "buttonClass": "premium"
+  }
+]
