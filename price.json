@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Basic",
+    "price": "£999",
+    "features": ["Feature 1", "Feature 2", "Feature 3", "Feature 4"],
+    "buttonClass": "button1"
+  },
+  {
+    "title": "Standard",
+    "price": "£1999",
+    "features": ["Feature 1", "Feature 2", "Feature 3", "Feature 4"],
+    "buttonClass": "button2"
+  },
+  {
+    "title": "Premium",
+    "price": "£2999",
+    "features": ["Feature 1", "Feature 2", "Feature 3", "Feature 4"],
+    "buttonClass": "button3"
+  }
+]
