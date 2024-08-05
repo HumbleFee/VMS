@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Account Package 1",
+    "price": "$30",
+    "features": ["Feature X", "Feature Y", "Feature Z"],
+    "buttonClass": "account1"
+  },
+  {
+    "title": "Account Package 2",
+    "price": "$50",
+    "features": ["Feature X", "Feature Y", "Feature Z", "Feature W"],
+    "buttonClass": "account2"
+  }
+]
