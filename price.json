@@ -23,4 +23,18 @@
     "features": ["Feature 1", "Feature 2", "Feature 3", "Feature 4"],
     "buttonClass": "button3"
   }
+  ,
+    {
+    "title": "Premium2",
+    "price": "£2999",
+    "features": ["Feature 1", "Feature 2", "Feature 3", "Feature 4"],
+    "buttonClass": "button3"
+  }
+  ,
+    {
+    "title": "Premium2",
+    "price": "£2999",
+    "features": ["Feature 1", "Feature 2", "Feature 3", "Feature 4"],
+    "buttonClass": "button3"
+  }
 ]
